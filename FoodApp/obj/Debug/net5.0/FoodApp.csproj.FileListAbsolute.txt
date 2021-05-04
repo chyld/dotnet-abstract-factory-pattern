@@ -1,0 +1,16 @@
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.csprojAssemblyReference.cache
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.AssemblyInfoInputs.cache
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.AssemblyInfo.cs
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.csproj.CoreCompileInputs.cache
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/FoodApp
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/FoodApp.deps.json
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/FoodApp.runtimeconfig.json
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/FoodApp.runtimeconfig.dev.json
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/FoodApp.dll
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/ref/FoodApp.dll
+/home/chyld/Temp/delta/FoodApp/bin/Debug/net5.0/FoodApp.pdb
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.dll
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/ref/FoodApp.dll
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.pdb
+/home/chyld/Temp/delta/FoodApp/obj/Debug/net5.0/FoodApp.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+dot new sln -o delta
+dot new console -o FoodApp
+dot run --project FoodApp

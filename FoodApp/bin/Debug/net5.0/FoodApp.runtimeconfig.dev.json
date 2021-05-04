@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/chyld/.dotnet/store/|arch|/|tfm|",
+      "/home/chyld/.nuget/packages"
+    ]
+  }
+}
